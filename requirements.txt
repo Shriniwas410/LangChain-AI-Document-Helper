@@ -1,6 +1,5 @@
 faiss-cpu
 PyPDF2
-"langchain[docarray]"
 pypdf
 requests
 docarray
