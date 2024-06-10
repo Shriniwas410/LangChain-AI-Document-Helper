@@ -1,0 +1,15 @@
+faiss-cpu
+PyPDF2
+"langchain[docarray]"
+pypdf
+requests
+docarray
+google
+google-ai-generativelanguage
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-google-genai
+langchain-text-splitters
+openai
